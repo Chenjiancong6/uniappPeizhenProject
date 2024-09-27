@@ -1,0 +1,31 @@
+
+.nav-list.data-v-4c620c3f {
+		display:flex;
+}
+.nav-list.data-v-4c620c3f::after {
+		content: '';
+		display: block;
+		height: 0;
+		line-height: 0;
+		clear: both;
+		visibility: hidden;
+}
+.nav-item.data-v-4c620c3f {
+		float: left;
+		margin-top: 20rpx;
+		width: 20%;
+		text-align: center;
+		padding: 10rpx 0;
+}
+.nav-pic image.data-v-4c620c3f {
+		display: block;
+		margin: 0 auto;
+		width: 110rpx;
+		height: 110rpx;
+}
+.nav-text.data-v-4c620c3f {
+		font-size: 24rpx;
+		font-weight: bold;
+		white-space: nowrap;
+		overflow: hidden;
+}

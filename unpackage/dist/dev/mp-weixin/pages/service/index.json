@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "填写服务订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-popup": "../../uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "top-info": "./topInfo",
+    "service-info": "./serviceInfo",
+    "service-form": "./serviceForm"
+  }
+}

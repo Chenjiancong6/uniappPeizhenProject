@@ -1,0 +1,16 @@
+
+.noice-img {
+		display: block;
+		width: 40rpx;
+		height: 40rpx;
+		margin-right: 14rpx;
+}
+.noice-closer {
+		display: block;
+		width: 30rpx;
+		height: 30rpx;
+}
+.noice-title {
+		color: #be9719;
+		font-size: 26rpx;
+}

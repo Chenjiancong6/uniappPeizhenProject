@@ -1,0 +1,1 @@
+<view class="pub-box"><view class="pub-box-bd"><view class="weui-cell weui-cell_input"><view class="weui-cell__hd"><image class="serv-icon" src="{{a}}" mode="widthFix"/></view><view class="weui-cell__bd"><text class="serv-name">{{b}}</text></view><view class="weui-cell__ft"><view class="f5 ic_info" bindtap="{{c}}">服务内容</view></view></view></view></view>

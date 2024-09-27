@@ -1,0 +1,1 @@
+<view class="nav2-list data-v-4dec1b13"><block wx:for="{{a}}" wx:for-item="item" wx:key="c"><view class="nav2-item data-v-4dec1b13" bindtap="{{item.b}}"><view class="nav2-pic data-v-4dec1b13"><image class="data-v-4dec1b13" src="{{item.a}}" mode="widthFix"></image></view></view></block></view>

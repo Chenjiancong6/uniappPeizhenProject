@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../components/NavBar/NavBar",
+    "swiper-img": "./swiperImg",
+    "two-navigation": "./twoNavigation",
+    "multiple-navigation": "./multipleNavigation",
+    "hospital-list": "./hospitalList"
+  }
+}

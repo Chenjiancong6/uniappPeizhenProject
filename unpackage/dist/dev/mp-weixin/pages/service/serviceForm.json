@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "dt-picker": "../../components/dtPicker/dtPicker"
+  }
+}

@@ -1,0 +1,27 @@
+
+.nav2-list.data-v-4dec1b13 {
+		margin: 10rpx 20rpx 0 20rpx;
+}
+.nav2-list.data-v-4dec1b13::after {
+		content: '';
+		display: block;
+		height: 0;
+		line-height: 0;
+		clear: both;
+		visibility: hidden;
+}
+.nav2-item.data-v-4dec1b13 {
+		float: left;
+		margin-top: 20rpx;
+		width: 50%;
+		text-align: center;
+		box-sizing: border-box;
+		padding: 0 5rpx;
+}
+.nav2-pic.data-v-4dec1b13 {
+		width: 100%;
+}
+.nav2-pic image.data-v-4dec1b13 {
+		display: block;
+		width: 100%;
+}
