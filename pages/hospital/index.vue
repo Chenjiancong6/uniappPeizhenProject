@@ -1,3 +1,4 @@
+// 医院数据
 <template>
 	<view>
 		<navbar title-text="" :isHeight="false" :isWhite="true" background="none" />
